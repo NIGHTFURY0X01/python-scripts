@@ -272,7 +272,7 @@ This collection is part of a Python utilities project focused on:
 
 # Author
 
-Arash
+**NIGHTFURY0X01**(**Arash**)
 
 ---
 
